@@ -2,7 +2,7 @@
 
 The frontend project of Mern Stack - Rest API example.
 
-## Getting Started
+### Getting Started
 
 It's a React project with Redux, Saga and Hooks.
 
@@ -22,10 +22,10 @@ It uses url and port information in .env-cmdrc environment file in root folder.
 
 npm install
 
-## How To Run
+### How To Run
 
 With "npm run start:dev" command, it uses information inside .env-cmdrc environment file
 
-## Authors
+### Authors
 
 * **Utku Ozdil**
