@@ -10,6 +10,8 @@ There is no class component in this project. All components are functional and a
 
 Containers(Pages) manages components and containers connects to Redux structure with actions. If it's an asysnc operation, action goes to saga, then goes to reducer and goes back to containers. If it's not async; route is action-reducer-container.
 
+This project uses REST API, so there are several axios HTTP methods(get, post, put, delete, patch) in Saga files.
+
 ### Possible Improvements
 
 It lacks error handling, testing and deployment setup.
